@@ -19,8 +19,13 @@ se quiser entrar no seu Facebook clique aqui : [BotãoMagico](https://www.facebo
 -Oi 2
 -Oi 3
 
-Quer ver uma coisa gostosa?
+Ai vai uma BANANA pra quem ta lendo!!
 
->Dica clica na Banana ent!
+
 
 ![Banana](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Banana-Single.jpg/1200px-Banana-Single.jpg)
+
+''' def add(a, b) do
+      a + b
+      end
+'''      
