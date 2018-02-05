@@ -25,7 +25,7 @@ Ai vai uma BANANA pra quem ta lendo!!
 
 ![Banana](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Banana-Single.jpg/1200px-Banana-Single.jpg)
 
-''' js
+'''Elixir 
 def add(a, b) do
       a + b
       end
