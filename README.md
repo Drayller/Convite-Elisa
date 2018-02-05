@@ -37,4 +37,4 @@ Mais uma foto aleatória pra quem ta lendo!!
 
 taca a foto do Batman do lado da sereia editor!!
 
-![BATMAN E SEREIA](https://instagram.fsdu6-1.fna.fbcdn.net/vp/f21c99b6b6decd933156b129744547df/5B07BAED/t51.2885-15/e35/23101759_1505542876230434_7548815149147095040_n.jpg)
+>a foto foi deletada pelo manager disso tudo 
