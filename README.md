@@ -30,7 +30,11 @@ def add(a, b) do
       a + b
 end
 ```      
-Mais uma foto aleatória pra quem ta lendo
+Mais uma foto aleatória pra quem ta lendo!!
 
 
 ![Fofo](https://github.com/images/error/angry_unicorn.png)
+
+taca a foto do Batman do lado da sereia editor!!
+
+(https://instagram.fsdu6-1.fna.fbcdn.net/vp/f21c99b6b6decd933156b129744547df/5B07BAED/t51.2885-15/e35/23101759_1505542876230434_7548815149147095040_n.jpg)
