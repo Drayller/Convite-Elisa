@@ -30,5 +30,5 @@ def add(a, b) do
       a + b
 end
 ```      
-
-! [Fofo](file:///home/drayller/Pictures/git_error.png)
+Mais uma foto aleatória pra quem ta lendo
+! [Fofo](https://github.com/images/error/angry_unicorn.png)
