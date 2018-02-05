@@ -29,6 +29,13 @@ defmodule ConviteElisa do
             IO.puts "Que pena, deveria conhecer ele, ele é uma otima pessoa."
             _  ->
             IO.puts "use apenas 'y' ou 'n'."
+
+            if pergunta = "y" do
+              IO.getn("Você gosta dele? [y|n] ", 1)
+
+
+
+            end
           end
         end
       end
