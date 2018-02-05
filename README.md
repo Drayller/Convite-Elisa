@@ -15,9 +15,9 @@ se quiser entrar no seu Facebook clique aqui : [BotãoMagico](https://www.facebo
 >
 > Simples
 
--Oi
--Oi 2
--Oi 3
+- Oi
+- Oi 2
+- Oi 3
 
 Ai vai uma BANANA pra quem ta lendo!!
 
@@ -37,4 +37,4 @@ Mais uma foto aleatória pra quem ta lendo!!
 
 taca a foto do Batman do lado da sereia editor!!
 
->a foto foi deletada pelo manager disso tudo 
+>a foto foi deletada pelo manager disso tudo
